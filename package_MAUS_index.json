@@ -14,12 +14,12 @@
           "architecture": "avr",
           "version": "1.0",
           "category": "MAUS",
-          "url": "https://github.com/MAKERSUN99/MAUS/releases/download/1.0/MAUS-master.zip",
-          "archiveFileName": "MAUS-master.zip",
-          "checksum": "SHA-256:610c53a3cf87d34e9c2dd89ca790e9e4574bceb36c2fee2116f87cad8e4f4591",
-          "size": "2566",
+          "url": "https://github.com/MAKERSUN99/MausArduino/releases/download/1.0/MAUS-avr.zip",
+          "archiveFileName": "MAUS-avr.zip",
+          "checksum": "SHA-256:0d0d47da3194f71158b3177461f7c324c6f58628d49abd920220acd500e7caec",
+          "size": "70",
           "help": {
-            "online": "https://github.com/MAKERSUN99/MAUS/issues"
+            "online": "https://github.com/MAKERSUN99/MausArduino/issues"
           },
           "boards": [
             {
