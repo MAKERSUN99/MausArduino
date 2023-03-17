@@ -1,1 +1,22 @@
-.
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+##############################################################
+
+
+
+
+MAUS.name=Default - 16.5mhz
+MAUS.upload.using=micronucleusprog
+MAUS.upload.protocol=usb
+MAUS.upload.tool=micronucleus
+MAUS.upload.maximum_size=6012
+MAUS.build.mcu=attiny85
+MAUS.build.f_cpu=16500000L
+MAUS.build.board=AVR_DIGISPARK
+MAUS.build.core=tiny
+MAUS.build.variant=digispark
+MAUS.upload.wait_for_upload_port = false
+MAUS.upload.use_1200bps_touch = false
+MAUS.upload.disable_flushing = false
