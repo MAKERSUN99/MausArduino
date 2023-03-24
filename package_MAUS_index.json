@@ -6,7 +6,7 @@
          "websiteURL":"http://makersun.net",
          "email":"makersun@protonmail.com",
          "help":{
-            "online":"https://www.makersun.net/maus/"
+            "online":"https://github.com/MAKERSUN99/MAUS"
          },
          "platforms":[
          {
@@ -14,16 +14,16 @@
           "architecture": "avr",
           "version": "1.0",
           "category": "MAUS",
-          "url": "https://github.com/MAKERSUN99/MausArduino/releases/download/1.0/MAUS-avr.zip",
-          "archiveFileName": "MAUS-avr.zip",
-          "checksum": "SHA-256:0d0d47da3194f71158b3177461f7c324c6f58628d49abd920220acd500e7caec",
-          "size": "70",
+          "url": "https://github.com/MAKERSUN99/MAUS/releases/download/1.0/MAUS-master.zip",
+          "archiveFileName": "MAUS-master.zip",
+          "checksum": "SHA-256:7F7E9F5AB982163F7A792C411326F0192A35B8A90890B7934F2F424A5426583D",
+          "size": "2491070",
           "help": {
-            "online": "https://github.com/MAKERSUN99/MausArduino/issues"
+            "online": "https://github.com/MAKERSUN99/MAUS/issues"
           },
           "boards": [
             {
-              "name": "MAUS Default - 16.5mhz"
+              "name": "MAUS (Default - 16.5mhz)"
             }
           ],
           "toolsDependencies": [
@@ -33,7 +33,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "micronucleus",
+              "packager": "MAKERSUN99",
               "name": "micronucleus",
               "version": "2.6"
             }
@@ -51,7 +51,7 @@
                  "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip",
                  "url": "https://github.com/MAKERSUN99/micronucleus/releases/download/2.6/micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip",
                  "checksum": "SHA-256:96dbf48e786dac7236516347e06beb8c36c754443afdcba782084f203a7b67d8",
-                 "size": "256"
+                 "size": "266240"
                }
 
              ]
