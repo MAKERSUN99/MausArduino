@@ -31,11 +31,6 @@
               "packager": "arduino",
               "name": "avr-gcc",
               "version": "4.8.1-arduino5"
-            },
-            {
-              "packager": "MAKERSUN99",
-              "name": "micronucleus",
-              "version": "2.6"
             }
           ]
         }
