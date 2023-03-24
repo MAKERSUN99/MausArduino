@@ -16,8 +16,6 @@
           "category": "MAUS",
           "url": "https://github.com/MAKERSUN99/MausArduino/releases/download/1.0/MAUS-avr.zip",
           "archiveFileName": "MAUS-avr.zip",
-          "checksum": "SHA-256:0d0d47da3194f71158b3177461f7c324c6f58628d49abd920220acd500e7caec",
-          "size": "77824",
           "help": {
             "online": "https://github.com/MAKERSUN99/MAUS/issues"
           },
